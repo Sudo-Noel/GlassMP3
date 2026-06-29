@@ -1,0 +1,240 @@
+﻿#Language   : Italiano
+#By         : Magic PSP
+#Contacts   : aliquo93@hotmail.it
+
+#Encoding is one of: UTF-8, GBK, BIG5, SHIFT-JIS, EUC-KR, MS-EE, MS-CYRL, ISO-8859-1, ISO-8859-2
+ENCODING=UTF-8
+TAG_ENCODING=UTF-8
+#Language to use in the On Screen Keyboard.
+#			JAPANESE			0
+#			ENGLISH				1
+#			FRENCH				2
+#			SPANISH				3
+#			GERMAN				4
+#			ITALIAN				5
+#			DUTCH				6
+#			PORTUGUESE			7
+#			RUSSIAN				8
+#			KOREAN				9
+#			CHINESE_TRADITIONAL	10
+#			CHINESE_SIMPLIFIED	11
+OSK_LANGUAGE=5
+
+YES=Si
+NO=No
+WAIT=Attendere...
+CHECK_BRIGHTNESS_TITLE=Controllo luminosita'
+CHECK_BRIGHTNESS=Abbassare la luminosita'?
+BRIGHTNESS_NO=No
+BRIGHTNESS_YES_WARNING=Si, con avviso
+BRIGHTNESS_YES=Si, senza avviso
+FREE_MEMORY=Mem. libera:
+
+USB_ACTIVE=USB attivato
+USB_MESSAGE=Premere SELECT per disattivare l'USB.
+TITLE=Titolo
+ARTIST=Artista
+ALBUM=Album
+GENRE=Genere
+YEAR=Anno
+TIME=Durata
+TRACK=Traccia
+ADDING_PLAYLIST=Aggiunta traccia in corso
+RATING=Voto
+PLAYED=Avviata v.
+NOT_SUPPORTED=Non supportato
+
+MODE=Modalita'
+BITRATE=Bitrate
+SAMPLERATE=Frequenza
+LAYER=Layer
+FILE_FORMAT=Formato
+EMPHASIS=Emphasis
+SLEEP_MODE=Sleep mode
+PLAY_MODE=Play mode
+STATUS=Stato
+VOLUME_BOOST=Volume boost
+EQUALIZER=Equalizzatore
+NOCOVER=Nessuna cover
+BUTTON_1=File Browser
+BUTTON_2=Playlists
+BUTTON_3=Modifica playlists
+BUTTON_4=Media Library
+BUTTON_5=Impostazioni
+
+SLEEP_MODE_0=Off
+SLEEP_MODE_1=Fine brano
+SLEEP_MODE_2=Fine cartella/playlist
+
+PLAY_MODE_0=Normale
+PLAY_MODE_1=Ripeti tutte
+PLAY_MODE_2=Ripeti traccia
+PLAY_MODE_3=Shuffle
+PLAY_MODE_4=Shuffle/ripeti
+
+PLAYER_STATUS_0=Apertura file
+PLAYER_STATUS_1=In pausa
+PLAYER_STATUS_2=In esecuzione
+
+CONFIRM_MESSAGE=X per confermare, O per annullare
+CONFIRM_LOAD_TITLE=Conferma
+CONFIRM_LOAD=Caricare la playlist selezionata?
+
+CONFIRM_REMOVE_TITLE=Conferma
+CONFIRM_REMOVE=Eliminare la playlist selezionata?
+ASK_PLAYLIST_NAME=Inserisci un nome per la playlist
+
+CONFIRM_CLEAR_PLAYLIST_TITLE=Conferma
+CONFIRM_CLEAR_PLAYLIST=Azzerare questa playlist?
+CONFIRM_REMOVE_FROM_PLAYLIST_TITLE=Conferma
+CONFIRM_REMOVE_FROM_PLAYLIST=Eliminare questa traccia dalla playlist?
+PLAYLIST_NAME=Nome
+TOTAL_TRACKS=Traccie totali
+
+SETTINGS_01=Tema
+SETTINGS_02=Lingua
+SETTINGS_03=Scrivere audio Scrobbler Log
+SETTINGS_04=Diminuzione graduale quando si salta una traccia
+SETTINGS_05=Abbassamento volume
+SETTINGS_06=Controllo luminosita'
+SETTINGS_07=Esegui MP3 utilizzando il Media Engine
+SETTINGS_08=Tipo di boost per MP3 utilizzando libMAD
+SETTINGS_09=Frequenza CPU automatica
+SETTINGS_10=Frequenza CPU: GUI
+SETTINGS_11=Frequenza CPU: MP3 libMAD
+SETTINGS_12=Frequenza CPU: MP3 Media Engine
+SETTINGS_13=Frequenza CPU: OGG Vorbis
+SETTINGS_14=Frequenza CPU: Flac
+SETTINGS_15=Frequenza CPU: ATRAC3
+CONFIRM_SAVE_SETTINGS_TITLE=Conferma
+CONFIRM_SAVE_SETTINGS=Applicare queste impostazioni?
+
+HELP_PLAYER_TITLE=Aiuto player
+HELP_PLAYER_01=Premi R per la traccia successiva
+HELP_PLAYER_02=Premi L per la traccia precedente
+HELP_PLAYER_03=Premi X per mettere in pausa/riprodurre
+HELP_PLAYER_04=Premi O per stoppare
+HELP_PLAYER_05=Premi [] per attivare/disattivare il volume muto
+HELP_PLAYER_06=Premi /\ per passare allo sleep mode
+HELP_PLAYER_07=Premi SELECT per passare al play mode
+HELP_PLAYER_08=Premi START per spegnere l'LCD
+HELP_PLAYER_09=Premi X + SU/GIU per valutare la traccia
+
+BROWSE_ARTIST=Ordina per artista
+BROWSE_ALBUM=Ordina per album
+BROWSE_GENRE=Ordina per genere
+BROWSE_RATING=Ordina per valutazione
+SEARCH=Cerca
+SCAN_MS=Ricerca brani nella MS
+
+CONFIRM_SCAN_MS_TITLE=Conferma
+CONFIRM_SCAN_MS=Ricercare brani nella MS?
+CHECKING_FILE=Controllo files nella MS
+SCANNING=Ricerca in corso
+MESSAGEBOX_CONTINUE=Premi X per continuare
+SCAN_FINISHED=Ricerca completata
+MEDIA_FOUND=Trovati XX brani.
+ASK_SEARCH_STRING=Inserire testo da ricercare
+QUERY_RUNNING_TITLE=Attendere...
+QUERY_RUNNING=In esecuzione
+TOTAL_TIME=Tempo totale
+WORKING=Elaborazione
+
+#This is used for the message "xx% done"
+DONE=Fatto
+
+################################################################################
+#2.0.0 BETA2
+################################################################################
+ALL=Tutti
+BOOST_NEW=Nuovo
+BOOST_OLD=Vecchio
+
+HELP_FILE_BROWSER_TITLE=Aiuto file browser
+HELP_FILE_BROWSER_01=X per entrare nella cartella/riprodurre brano
+HELP_FILE_BROWSER_02=O per andare nella cartella precedente
+HELP_FILE_BROWSER_03=[] per riprodurre l'intera cartella
+HELP_FILE_BROWSER_04=START per aggiungere cartella/brano nella playlist
+HELP_FILE_BROWSER_05=SELECT per attivare la modalita' USB
+
+HELP_PLAYLIST_BROWSER_TITLE=Aiuto playlist
+HELP_PLAYLIST_BROWSER_01=X per riprodurre la playlist
+HELP_PLAYLIST_BROWSER_02=O per eliminare la playlist
+HELP_PLAYLIST_BROWSER_03=[] per caricare la playlist nell'editor
+HELP_PLAYLIST_BROWSER_04=START per aggiungere la playlist nell'editor
+
+CONFIRM_ADD_PLAYLIST_TITLE=Conferma
+CONFIRM_ADD_PLAYLIST=Aggiungere la playlist selezionata?
+
+HELP_PLAYLIST_EDITOR_TITLE=Aiuto modifica playlist
+HELP_PLAYLIST_EDITOR_01=[] per spostare la traccia in alto
+HELP_PLAYLIST_EDITOR_02=X per spostare la traccia in basso
+HELP_PLAYLIST_EDITOR_03=O per eliminare la traccia dalla playlist
+HELP_PLAYLIST_EDITOR_04=/\ per controllare i files
+HELP_PLAYLIST_EDITOR_05=START per salvare la playlist
+HELP_PLAYLIST_EDITOR_06=SELECT per azzerare la playlist
+HELP_PLAYLIST_EDITOR_07=Nota per riprodurre la playlist
+
+HELP_MEDIALIBRARY_TITLE=Aiuto Media Library
+HELP_MEDIALIBRARY_01=X per cliccare selezionati/riprodurre traccia
+HELP_MEDIALIBRARY_02=O per tornare indietro
+HELP_MEDIALIBRARY_03=[] per riprodurre selezionati
+HELP_MEDIALIBRARY_04=START per aggiungere selez./traccia nella playlist
+HELP_MEDIALIBRARY_05=X + SU/GIU per valutare la traccia
+
+HELP_SETTINGS_TITLE=Impostazioni
+HELP_SETTINGS_01=Sinistra/Destra per cambiare le impostazioni
+HELP_SETTINGS_02=Start per salvare le impostazioni
+
+LOADING_SKIN_TITLE=Attendere...
+LOADING_SKIN=Caricamento della nuova skin...
+CHECKING_PLAYLIST=Controllo files della playlist... 
+
+SETTINGS_17=Intervallo ripetiz. tasti
+SETTINGS_18=Mostra splash screen
+
+BROWSE_TOP100=Top 100
+BROWSE_ALL=Visualizza tutti
+
+BROWSE_TOP100=Top 100
+BROWSE_ALL=Browse all
+
+################################################################################
+#2.0.0 RC1
+################################################################################
+HELP_MEDIALIBRARY_06=/\ per ordinare le tracce
+
+ORDER_BY_01=Artista, Album, Traccia#
+ORDER_BY_02=Artista, Album, Titolo
+ORDER_BY_03=Artista, Titolo
+ORDER_BY_04=Titolo
+ORDER_BY_05=Anno, Titolo
+ORDER_BY_06=Anno, Artista, Album, Traccia#
+ORDER_BY_07=Anno, Artista, Album, Titolo
+ORDER_BY_08=Valutazione, Artista, Album, Traccia#
+ORDER_BY_09=Valutazione, Artista, Album, Titolo
+
+################################################################################
+#2.0.0 RC2
+################################################################################
+HELP_PLAYER_10=L + Circle per creare un segnalibro
+CONFIRM_BOOKMARK_TITLE=Conferma
+CONFIRM_BOOKMARK=Creare un segnalibro ed uscire?
+CONFIRM_BOOKMARK_LOAD=Caricare il segnalibro salvato?
+
+################################################################################
+#2.0.0 RC3
+################################################################################
+SLEEP_MODE_3=0:30 Hour
+SLEEP_MODE_4=1:00 Hour
+SLEEP_MODE_5=1:30 Hours
+SLEEP_MODE_6=2:00 Hours
+
+################################################################################
+#2.0.0 RC4
+################################################################################
+SETTINGS_16=CPU Clock: WMA
+SETTINGS_19=Display Off on Hold
+
+LOADING_LANGUAGE_TITLE=Please Wait
+LOADING_LANGUAGE=Loading new language
